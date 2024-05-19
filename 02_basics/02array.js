@@ -9,7 +9,7 @@ const dc_heros = ["superhero" ,"flash" ,"batman"]
 // console.log(allHeroes)
 
 // // // method 2
-// // const allHeroes2 = [...dc_heros,...marvel]
+// // const allHeroes2 = [...dc_heros,...marvel] // spread & combine tool --latest
 // // console.log(allHeroes2)
 
 const another_array= [1,2,3,4,[5,6,7],8,9,[10,[11,12,13]] ]
